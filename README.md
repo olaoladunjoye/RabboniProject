@@ -1,7 +1,4 @@
 # RabboniProject
-
-
-
 My name is Babatunde Ekundayo
 
 
